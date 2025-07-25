@@ -1,6 +1,6 @@
 """Docstring"""
 def main():
     """Docstring"""
-    print("Hello Git")\
+    print("Hello you skibidi")\
     
 main()
